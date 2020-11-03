@@ -1,0 +1,72 @@
+{
+  "posts": [
+    {
+      "imgServer": "https://www.kodges.ru/uploads/posts/2015-01/54ae84e5e185e.jpg.pagespeed.ce.hfFU-HmSXu.jpg",
+      "nameServer": "Javascript. Подробное руководство. 6-е издание",
+      "authorServer": "Стив Джобс",
+      "pagesServer": 1080,
+      "sizeServer": "12 мб",
+      "qualityServer": "Отличное",
+      "languageServer": "Русский",
+      "yearServer": 2012,
+      "descriptionServer": "C момента выхода первого издания в 1996 году книга 'jаvascript: Подробное руководство' превратилась в библию программистов на jаvascript. За эти годы было издано более 500000 экземпляров, и веб-разработчики по-прежнему с восторгом отзываются о ней. Эта книга - одновременно и руководство программиста, и полноценный справочник по базовому языку jаvascript и клиентским прикладным интерфейсам, предоставляемым веб-броузерами.",
+      "id": 1
+    },
+    {
+      "imgServer": "https://www.kodges.ru/uploads/posts/2020-09/1601202293_cov350m.jpg.pagespeed.ce.VYEi31Xnof.jpg",
+      "nameServer": "300 Javascript Interview Mastery Questions: Dive Deep into jаvascript Theory, Syntax, and APIs, and Interview with Confidence",
+      "authorServer": "Билл Гейтс",
+      "pagesServer": 610,
+      "sizeServer": "10 мб",
+      "qualityServer": "Отличное",
+      "languageServer": "Английский",
+      "yearServer": 2020,
+      "descriptionServer": "This book covers jаvascript syntax, rules, functionality, and theory. It is designed to help you improve upon your jаvascript knowledge as well as expose you to some edge cases and unusual situations in jаvascript. I find that these are the types of examples that really solidify a developer’s understanding of this fun language.",
+      "id": 2
+    },
+    {
+      "imgServer": "https://www.kodges.ru/uploads/posts/2020-09/1599832608_cov350m.jpg.pagespeed.ce.jSmDAScr1B.jpg",
+      "nameServer": "Javascript For Beginners: The Ultimate Guide to Understand jаvascript Code and Its Fundamentals",
+      "authorServer": "Стив Джобс",
+      "pagesServer": 1392,
+      "sizeServer": "14 мб",
+      "qualityServer": "Отличное",
+      "languageServer": "Английский",
+      "yearServer": 2020,
+      "descriptionServer": "Successfully learning a programming language is very similar to how you would approach learning a real world language. You start off with the basics. Once you've gotten good at that, you move on to something a bit more advanced. This whole process just keeps repeating itself, and it never really ends. None of us ever truly stop learning. It just requires starting somewhere. To help you with the “starting somewhere” part is where this book comes in.",
+      "id": 3
+    }
+  ],
+  "authors": [
+    {
+      "author": "Стив Джобс"
+    },
+    {
+      "author": "Илон Маск"
+    },
+    {
+      "author": "Джек Ма"
+    },
+    {
+      "author": "Билл Гейтс"
+    },
+    {
+      "author": "Стив Возняк"
+    },
+    {
+      "author": "Оскар Хартманн"
+    },
+    {
+      "author": "Марк Цукенберг"
+    },
+    {
+      "author": "Джеф Безос"
+    },
+    {
+      "author": "Ворен Баффет"
+    },
+    {
+      "author": "Шон Паркер"
+    }
+  ]
+}
