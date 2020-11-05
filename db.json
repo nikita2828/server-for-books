@@ -1,9 +1,9 @@
 {
-  "posts": [
+  "comp": [
     {
       "imgServer": "https://www.kodges.ru/uploads/posts/2015-01/54ae84e5e185e.jpg.pagespeed.ce.hfFU-HmSXu.jpg",
       "nameServer": "Javascript. Подробное руководство. 6-е издание",
-      "authorServer": "Стив Джобс",
+      "authorServer": "Илон Маск",
       "pagesServer": 1080,
       "sizeServer": "12 мб",
       "qualityServer": "Отличное",
@@ -27,7 +27,7 @@
     {
       "imgServer": "https://www.kodges.ru/uploads/posts/2020-09/1599832608_cov350m.jpg.pagespeed.ce.jSmDAScr1B.jpg",
       "nameServer": "Javascript For Beginners: The Ultimate Guide to Understand jаvascript Code and Its Fundamentals",
-      "authorServer": "Стив Джобс",
+      "authorServer": "Стив Возняк",
       "pagesServer": 1392,
       "sizeServer": "14 мб",
       "qualityServer": "Отличное",
@@ -37,35 +37,83 @@
       "id": 3
     }
   ],
+  "science": [
+    {
+      "imgServer": "https://www.kodges.ru/uploads/posts/2013-02/5118d87a7a601.jpg.pagespeed.ce.zJbtlaRPKD.jpg",
+      "nameServer": "Рейки дао-дэ-ки. Древние источники рейки",
+      "authorServer": "Идрис Лаор",
+      "pagesServer": 200,
+      "sizeServer": "30 мб",
+      "qualityServer": "Отличное",
+      "languageServer": "Русский",
+      "yearServer": 2012,
+      "descriptionServer": "Рейки является методом личного развития - физического, эмоционального, интеллектуального и духовного. Поток этой энергии усиливает, восстанавливает и гармонизирует того, кто ее получает. В то же время он позволяет отпустить все напряжения, принося глубокое расслабление как практикующему, так и клиенту.",
+      "id": 1
+    },
+    {
+      "imgServer": "https://www.kodges.ru/uploads/posts/2020-11/1604570879_3274026.jpg.pagespeed.ce.gXeiv-rSvc.jpg",
+      "nameServer": "Дорожно-строительные материалы и машины",
+      "authorServer": "Тюрин Н.А., Бессараб Г.А., Язов В.Н.",
+      "pagesServer": 310,
+      "sizeServer": "101 мб",
+      "qualityServer": "Отличное",
+      "languageServer": "Русский",
+      "yearServer": 2009,
+      "descriptionServer": "Изложены общие сведения о дорожно-строительных материалах и машинах, используемых в лесном дорожном строительстве.",
+      "id": 2
+    },
+    {
+      "imgServer": "https://www.kodges.ru/uploads/posts/2016-03/56e13895368dd.jpg.pagespeed.ce.67lXQ_ihPv.jpg",
+      "nameServer": "10 тысяч лет Русской истории - 3 книги",
+      "authorServer": "коллектив",
+      "pagesServer": 1392,
+      "sizeServer": "24 мб",
+      "qualityServer": "Отличное",
+      "languageServer": "Русский",
+      "yearServer": 2014,
+      "descriptionServer": "Эта книжная серия разоблачает самые «сенсационные» и навязчивые мифы о Древней Руси – от легендарного князя Руса до Дмитрия Донского, от гибели Игоря и Святослава до Мамаева побоища. Неудобная для Запада правда о происхождении Русского народа. Вы узнаете как закалялась Русская Земля, как на полях сражений беспощадной войны решалась судьба славянства и будущее нашего народа.",
+      "id": 3
+    }
+  ],
   "authors": [
     {
+      "id": 1,
       "author": "Стив Джобс"
     },
     {
+      "id": 2,
       "author": "Илон Маск "
     },
     {
+      "id": 3,
       "author": "Джек Ма"
     },
     {
+      "id": 4,
       "author": "Билл Гейтс"
     },
     {
+      "id": 5,
       "author": "Стив Возняк"
     },
     {
+      "id": 6,
       "author": "Оскар Хартманн"
     },
     {
+      "id": 7,
       "author": "Марк Цукенберг"
     },
     {
+      "id": 8,
       "author": "Джеф Безос"
     },
     {
+      "id": 9,
       "author": "Ворен Баффет"
     },
     {
+      "id": 10,
       "author": "Шон Паркер"
     }
   ]
