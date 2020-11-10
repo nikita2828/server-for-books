@@ -43,7 +43,7 @@
   ],
   "books": [
     {
-      "category": "comp",
+      "categoryServer": "comp",
       "imgServer": "https://www.kodges.ru/uploads/posts/2015-01/54ae84e5e185e.jpg.pagespeed.ce.hfFU-HmSXu.jpg",
       "nameServer": "Javascript. Подробное руководство. 6-е издание",
       "authorServer": "Илон Маск",
@@ -56,7 +56,7 @@
       "id": 1
     },
     {
-      "category": "comp",
+      "categoryServer": "comp",
       "imgServer": "https://www.kodges.ru/uploads/posts/2020-09/1601202293_cov350m.jpg.pagespeed.ce.VYEi31Xnof.jpg",
       "nameServer": "300 Javascript Interview Mastery Questions: Dive Deep into jаvascript Theory, Syntax, and APIs, and Interview with Confidence",
       "authorServer": "Билл Гейтс",
@@ -69,7 +69,7 @@
       "id": 2
     },
     {
-      "category": "comp",
+      "categoryServer": "comp",
       "imgServer": "https://www.kodges.ru/uploads/posts/2020-09/1599832608_cov350m.jpg.pagespeed.ce.jSmDAScr1B.jpg",
       "nameServer": "Javascript For Beginners: The Ultimate Guide to Understand jаvascript Code and Its Fundamentals",
       "authorServer": "Стив Возняк",
@@ -82,7 +82,7 @@
       "id": 3
     },
     {
-      "category": "science",
+      "categoryServer": "science",
       "imgServer": "https://www.kodges.ru/uploads/posts/2013-02/5118d87a7a601.jpg.pagespeed.ce.zJbtlaRPKD.jpg",
       "nameServer": "Рейки дао-дэ-ки. Древние источники рейки",
       "authorServer": "Идрис Лаор",
@@ -92,10 +92,10 @@
       "languageServer": "Русский",
       "yearServer": 2012,
       "descriptionServer": "Рейки является методом личного развития - физического, эмоционального, интеллектуального и духовного. Поток этой энергии усиливает, восстанавливает и гармонизирует того, кто ее получает. В то же время он позволяет отпустить все напряжения, принося глубокое расслабление как практикующему, так и клиенту.",
-      "id": 1
+      "id": 4
     },
     {
-      "category": "science",
+      "categoryServer": "science",
       "imgServer": "https://www.kodges.ru/uploads/posts/2020-11/1604570879_3274026.jpg.pagespeed.ce.gXeiv-rSvc.jpg",
       "nameServer": "Дорожно-строительные материалы и машины",
       "authorServer": "Тюрин Н.А., Бессараб Г.А., Язов В.Н.",
@@ -105,10 +105,10 @@
       "languageServer": "Русский",
       "yearServer": 2009,
       "descriptionServer": "Изложены общие сведения о дорожно-строительных материалах и машинах, используемых в лесном дорожном строительстве.",
-      "id": 2
+      "id": 5
     },
     {
-      "category": "science",
+      "categoryServer": "science",
       "imgServer": "https://www.kodges.ru/uploads/posts/2016-03/56e13895368dd.jpg.pagespeed.ce.67lXQ_ihPv.jpg",
       "nameServer": "10 тысяч лет Русской истории - 3 книги",
       "authorServer": "коллектив",
@@ -118,7 +118,17 @@
       "languageServer": "Русский",
       "yearServer": 2014,
       "descriptionServer": "Эта книжная серия разоблачает самые «сенсационные» и навязчивые мифы о Древней Руси – от легендарного князя Руса до Дмитрия Донского, от гибели Игоря и Святослава до Мамаева побоища. Неудобная для Запада правда о происхождении Русского народа. Вы узнаете как закалялась Русская Земля, как на полях сражений беспощадной войны решалась судьба славянства и будущее нашего народа.",
-      "id": 3
+      "id": 6
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "category": "comp"
+    },
+    {
+      "id": 2,
+      "category": "science"
     }
   ]
 }
