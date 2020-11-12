@@ -43,10 +43,10 @@
   ],
   "books": [
     {
-      "categoryData": "comp",
+      "categoryData": 1,
       "imgData": "https://www.kodges.ru/uploads/posts/2015-01/54ae84e5e185e.jpg.pagespeed.ce.hfFU-HmSXu.jpg",
       "nameData": "Javascript. Подробное руководство. 6-е издание",
-      "authorData": "Илон Маск",
+      "authorData": 1,
       "pagesData": 1080,
       "sizeData": "12 мб",
       "qualityData": "Отличное",
@@ -56,10 +56,10 @@
       "id": 1
     },
     {
-      "categoryData": "comp",
+      "categoryData": 1,
       "imgData": "https://www.kodges.ru/uploads/posts/2020-09/1601202293_cov350m.jpg.pagespeed.ce.VYEi31Xnof.jpg",
       "nameData": "300 Javascript Interview Mastery Questions: Dive Deep into jаvascript Theory, Syntax, and APIs, and Interview with Confidence",
-      "authorData": "Билл Гейтс",
+      "authorData": 1,
       "pagesData": 610,
       "sizeData": "10 мб",
       "qualityData": "Отличное",
@@ -69,10 +69,10 @@
       "id": 2
     },
     {
-      "categoryData": "comp",
+      "categoryData": 1,
       "imgData": "https://www.kodges.ru/uploads/posts/2020-09/1599832608_cov350m.jpg.pagespeed.ce.jSmDAScr1B.jpg",
       "nameData": "Javascript For Beginners: The Ultimate Guide to Understand jаvascript Code and Its Fundamentals",
-      "authorData": "Стив Возняк",
+      "authorData": 1,
       "pagesData": 1392,
       "sizeData": "14 мб",
       "qualityData": "Отличное",
@@ -82,10 +82,10 @@
       "id": 3
     },
     {
-      "categoryData": "science",
+      "categoryData": 2,
       "imgData": "https://www.kodges.ru/uploads/posts/2013-02/5118d87a7a601.jpg.pagespeed.ce.zJbtlaRPKD.jpg",
       "nameData": "Рейки дао-дэ-ки. Древние источники рейки",
-      "authorData": "Идрис Лаор",
+      "authorData": 1,
       "pagesData": 200,
       "sizeData": "30 мб",
       "qualityData": "Отличное",
@@ -95,10 +95,10 @@
       "id": 4
     },
     {
-      "categoryData": "science",
+      "categoryData": 2,
       "imgData": "https://www.kodges.ru/uploads/posts/2020-11/1604570879_3274026.jpg.pagespeed.ce.gXeiv-rSvc.jpg",
       "nameData": "Дорожно-строительные материалы и машины",
-      "authorData": "Тюрин Н.А., Бессараб Г.А., Язов В.Н.",
+      "authorData": 1,
       "pagesData": 310,
       "sizeData": "101 мб",
       "qualityData": "Отличное",
@@ -108,10 +108,10 @@
       "id": 5
     },
     {
-      "categoryData": "science",
+      "categoryData": 2,
       "imgData": "https://www.kodges.ru/uploads/posts/2016-03/56e13895368dd.jpg.pagespeed.ce.67lXQ_ihPv.jpg",
       "nameData": "10 тысяч лет Русской истории - 3 книги",
-      "authorData": "коллектив",
+      "authorData": 1,
       "pagesData": 1392,
       "sizeData": "24 мб",
       "qualityData": "Отличное",
@@ -119,6 +119,19 @@
       "yearData": 2014,
       "descriptionData": "Эта книжная серия разоблачает самые «сенсационные» и навязчивые мифы о Древней Руси – от легендарного князя Руса до Дмитрия Донского, от гибели Игоря и Святослава до Мамаева побоища. Неудобная для Запада правда о происхождении Русского народа. Вы узнаете как закалялась Русская Земля, как на полях сражений беспощадной войны решалась судьба славянства и будущее нашего народа.",
       "id": 6
+    },
+    {
+      "imgData": "1",
+      "nameData": "1",
+      "authorData": 1,
+      "categoryData": 1,
+      "pagesData": 0,
+      "sizeData": "",
+      "qualityData": "",
+      "languageData": "",
+      "yearData": 0,
+      "descriptionData": "111111111111111",
+      "id": 7
     }
   ],
   "categories": [
